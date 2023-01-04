@@ -1,0 +1,6 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\PigLatin\obj\Debug\PigLatin.pdb

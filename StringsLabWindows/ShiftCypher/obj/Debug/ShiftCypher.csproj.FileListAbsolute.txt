@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\bin\Debug\ShiftCypher.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\bin\Debug\ShiftCypher.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\bin\Debug\ShiftCypher.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\obj\Debug\ShiftCypher.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\obj\Debug\ShiftCypher.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\obj\Debug\ShiftCypher.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week01\strings-lab-ccollis93\StringsLabWindows\ShiftCypher\obj\Debug\ShiftCypher.pdb
